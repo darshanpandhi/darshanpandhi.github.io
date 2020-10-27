@@ -53,12 +53,6 @@ _Oct 2018 - May 2020_
 - Awarded multiple Bravo Cards time and again for going above and beyond the expected whilst providing exceptional customer service
 - Developed a competitive edge by attending optional e-learning courses on the company’s learning management system during scheduled breaks
 
-#### **Sales and Marketing Executive**
-
-#### **RG Telecommunications, India**
-
-_Jul 2015 - Jun 2016_
-
 &nbsp;
 
 ## **Technical Skills**
