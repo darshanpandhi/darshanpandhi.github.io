@@ -61,15 +61,13 @@ _Oct 2018 - May 2020_
 
 #### **Languages, Libraries and Technologies**
 
-- Java
-- C#
-- C/C++
-- Python
-- JavaScript
-- React
-- Git
-- SQL
-- AWS
+|        |            |     |
+| ------ | ---------- | --- |
+| Java   | C#         | Git |
+| C/C++  | JavaScript | SQL |
+| Python | React      | AWS |
+
+&nbsp;
 
 ## Projects
 
