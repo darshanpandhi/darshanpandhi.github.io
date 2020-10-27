@@ -1,6 +1,6 @@
 # **DARSHAN PANDHI**
 
-### [linkedin.com/in/darshan-pandhi](linkedin.com/in/darshan-pandhi)
+### [linkedin.com/in/darshan-pandhi](https://www.linkedin.com/in/darshan-pandhi/)
 
 ### [pandhid@myumanitoba.ca](mailto:pandhid@myumanitoba.ca)
 
