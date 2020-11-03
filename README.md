@@ -35,12 +35,12 @@ The following terms are used throughout the README and hence have been defined h
 
 ## Instructions
 
-### Animated GIF
-
 1. Sign In / Open your GitHub Repositiory
 2. Create a new Repository with the name yourUsername.github.io
 3. Create README.md
 4. Create index.md and add in your markdown formatted resume in there
+
+### Animated GIF
 
 ### More Resources
 
