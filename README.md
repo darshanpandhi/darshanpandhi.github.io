@@ -39,6 +39,7 @@ The following terms are used throughout the README and hence have been defined h
 2. Create a new Repository with the name yourUsername.github.io
 3. Create README.md
 4. Create index.md and add in your markdown formatted resume in there
+5. Choose a style for your Resume
 
 ### Animated GIF
 
