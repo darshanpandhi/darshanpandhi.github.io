@@ -32,7 +32,7 @@ The following terms are used throughout the README and hence have been defined h
 
   Using GitHub Pages, you can convert your favourite GitHub repository into a website.
 
-- [**Jekyll:**](https://jekyllrb.com/)
+- [**Jekyll**](https://jekyllrb.com/)
 
   Jekyll is a static site generator that is used to convert plain text into static websites.
 
