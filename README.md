@@ -43,12 +43,11 @@ The following terms are used throughout the README and hence have been defined h
 
 ## Instructions
 
-There is no doubt that distributed version control systems are superior than their centralized counterparts.
-The absence of repository locking allows multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure.
+> There is no doubt that distributed version control systems are superior than their centralized counterparts. The absence of repository locking allows multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure. And the most underrated of all is the ability to work offline.
 
 > However, according to Etter, the primary reason technical writers should use a distributed file sharing system is because developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
 
-Therefore, we use GitHub as follows.
+Therefore, it is reason enough to use GitHub in our expedition.
 
 ### Steps to create a new GitHub Repository
 
@@ -59,9 +58,13 @@ Therefore, we use GitHub as follows.
 5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
 6. Click **Create repository**
 
-> Etter strongly feels that using a lightweight markup like Markdown is the best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain. Furthermore, using something like Microsoft Word instead, goes directly against the unsaid rule of constantly updating the single source of truth. And we haven't even talked about the free (Markdown) vs paid (Word) aspect here.
+> Etter strongly feels that using a lightweight markup is the best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain.
 
-That is why we format our resume should be formatted in [Markdown](https://commonmark.org/help/).
+> Furthermore, it increases people's ability to contribute.
+
+That is why we format our resume in [Markdown](https://commonmark.org/help/). After all, it the most widely used markup language in the world having the most concise syntax.
+
+Note: While Markdown has several flavours, we use the popular GitHub Flavoured Markdown.
 
 ### Steps to upload your Resume to this new Repository
 
