@@ -43,13 +43,15 @@ The following terms are used throughout the README and hence have been defined h
 
 ## Instructions
 
+### Distributed File Sharing System
+
 > There is no doubt that distributed version control systems are superior than their centralized counterparts. The absence of repository locking allows multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure. And the most underrated of all is the ability to work offline.
 
 > However, according to Etter, the primary reason technical writers should use a distributed file sharing system is because developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
 
 Therefore, it is reason enough to use GitHub in our expedition.
 
-### Steps to create a new GitHub Repository
+#### Steps to create a new GitHub Repository
 
 1. Sign In / Open your GitHub Repository
 2. Click on **New / Create Repository** to create a new repository
@@ -57,6 +59,8 @@ Therefore, it is reason enough to use GitHub in our expedition.
 4. Set it up as a **Public** Repository.
 5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
 6. Click **Create repository**
+
+### Lightweight Markup Language
 
 > Etter strongly feels that using a lightweight markup is the best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain.
 
@@ -66,7 +70,7 @@ That is why we format our resume in [Markdown](https://commonmark.org/help/). A
 
 Note: While Markdown has several flavours, we use the popular GitHub Flavoured Markdown.
 
-### Steps to upload your Resume to this new Repository
+#### Steps to upload your Resume to this new Repository
 
 1. Click **Add file** within your new repository.
 2. Select **Upload files** from the dropdown box.
@@ -78,11 +82,13 @@ Note: While Markdown has several flavours, we use the popular GitHub Flavoured M
 
 6. Click **Commit Changes**.
 
+### Static Website and Static Site Generator
+
 > Etter is not wrong when he says that static websites check all the right boxes. They are easy to use, fast, portable and completely secure. There are no databases to setup or servers to configure. It lets one focus their time and effort on what matters the most, content.
 
 Hence, we use GitHub Pages to host our repository containing our Resume and utilize Etter's very own suggestion, Jekyll as our static site generator to theme our resume.
 
-### Steps to create a Static Website for your Resume and style it
+#### Steps to create a Static Website for your Resume and style it
 
 1. Click **Settings** tab from within the repository.
 2. Scroll Down to GitHub Pages Section. Here, you will see the URL of your GitHub Page.
