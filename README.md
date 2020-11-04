@@ -6,7 +6,7 @@ Hosting one's Resume online is no longer an option today. Rather, it is crucial 
 
 This README will guide you in formatting and having your Resume published online utilizing popular and current technical documentation tools like Markdown, a Markdown editor, GitHub Pages and Jekyll.
 
-While doing so, this README will also be teaching about Andrew Etter's key principles regarding current Technical Writing as mentioned in his book [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/).
+While doing so, this README will also teach about Andrew Etter's key principles regarding current Technical Writing as mentioned in his book [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/).
 
 ## Audience
 
@@ -14,7 +14,7 @@ This README is intended for fellow Computer Science Students looking to increase
 
 ## Terminology
 
-The following terms are used throughout the README and hence have been defined here
+The following terms are used throughout the README and hence have been defined here in one place.
 
 - [**Markdown**](https://www.markdownguide.org/)
 
@@ -30,7 +30,7 @@ The following terms are used throughout the README and hence have been defined h
 
 - [**GitHub Pages**](https://pages.github.com/)
 
-  Using GitHub Pages, you can convert your favourite repository into a website
+  Using GitHub Pages, you can convert your favourite GitHub repository into a website.
 
 - [**Jekyll:**](https://jekyllrb.com/)
 
@@ -44,9 +44,9 @@ The following terms are used throughout the README and hence have been defined h
 ## Instructions
 
 There is no doubt that distributed version control systems are superior than their centralized counterparts.
-There is no repository locking allowing multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server.
+The absence of repository locking allows multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure.
 
-> However, according to Etter, the primary reason techncial writers should use a distributed file sharing system is because developers prefer them. This will encourage contributions as potential contributors now know that you prefer modern tools.
+> However, according to Etter, the primary reason techncial writers should use a distributed file sharing system is because developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
 
 Therefore, we use GitHub as follows.
 
@@ -59,7 +59,7 @@ Therefore, we use GitHub as follows.
 5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
 6. Click **Create repository**
 
-> Etter strongly feels that using a lightweight markup like Markdown is te best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain. Furthermore, using something like Microsoft Word instead, goes directly against the unsaid rule of constantly updating the single source of truth. And we haven't even talked about the free (Markdown) vs paid (Word) aspect here.
+> Etter strongly feels that using a lightweight markup like Markdown is the best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain. Furthermore, using something like Microsoft Word instead, goes directly against the unsaid rule of constantly updating the single source of truth. And we haven't even talked about the free (Markdown) vs paid (Word) aspect here.
 
 That is why we format our resume should be formatted in [Markdown](https://commonmark.org/help/).
 
@@ -87,7 +87,7 @@ Hence, we use GitHub Pages to host our repository containing our Resume and util
 4. Select the desired theme.
 5. Click **Select theme**.
 
-And that's all. You have successfully hosted your Resume online. 
+And that's all. You have successfully hosted your Resume online.
 
 To check that out, follow the animated GIF added below. Navigating to _yourGitHubUsername_.github.io website should give you the desired result you have been waiting for.
 
@@ -107,7 +107,8 @@ To check that out, follow the animated GIF added below. Navigating to _yourGitHu
 
 Billie Thompson for providing a good readme template.
 
-I would like to thank 
+I would like to thank
+
 - **Billie Thompson** whose README template has been instrumental in putting this README together.
 - **Fantastic Five** group members from COMP 3040 whose suggestions while peer editing have been extremely valuable.
 
