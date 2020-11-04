@@ -18,7 +18,9 @@ The following terms are used throughout the README and hence have been defined h
 - **Markdown**
 
     Markdown is a lightweight markup language. Simply put, it is a way of formatting text documents.
+    
     As a matter of fact, this README itself is formatted in Markdown. 
+    
     this readme is created with mardowndRequires an editor which leads us to our term. 
 
 #### **TODO:** Insert an Andrew Etter Refernce like Andrew Etter recommends to use a light-weight markup language.
