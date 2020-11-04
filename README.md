@@ -99,6 +99,10 @@ And that's exactly what we do here (use Jekyll to theme our Resume).
 4. Select the desired theme.
 5. Click **Select theme**.
 
+**Bonus:** Your repository will have a \_config.yml. This file can be modified to add further fine customizations to enhance your Resume as follows.
+
+![config.yml](config.yml.png)
+
 And that's all. You have successfully hosted your Resume online.
 
 To check that out, follow the animated GIF added below. Navigating to _yourGitHubUsername_.github.io website should give you the desired result you have been waiting for.
@@ -136,4 +140,4 @@ Note that GitHub Pages is notorious for its irregular update times. If the new c
 
 For Example: If the file name is GIFanimation.gif, you can reference it as
 
-` ![GIF](GIFanimation.gif) `
+`![GIF](GIFanimation.gif)`
