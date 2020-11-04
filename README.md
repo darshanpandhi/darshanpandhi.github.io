@@ -70,11 +70,11 @@ That is why we format our resume in [Markdown](https://commonmark.org/help/). A
 
 Note: While Markdown has several flavours, we use the popular GitHub Flavoured Markdown.
 
-#### Steps to upload your Resume to this new Repository
+#### Steps to upload your (Markdown-formatted) Resume to this new Repository
 
 1. Click **Add file** within your new repository.
 2. Select **Upload files** from the dropdown box.
-3. Rename your Markdown-formatted Resume file as index.md.
+3. Rename your Resume file as index.md.
 4. Drag this index.md file into your repository.
 5. Enter a commit message.
 
