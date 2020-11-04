@@ -20,7 +20,7 @@ The following terms are used throughout the README and hence have been defined h
 
   Markdown is a lightweight markup language. Simply put, it is a way of formatting text documents.
 
-  As a matter of fact, this README itself is formatted in Markdown using a Markdown Editor which brings us to our next term.
+  As a matter of fact, this README itself is formatted in Markdown using a Markdown Editor, which brings us to our next term.
 
 - **Markdown Editor**
 
@@ -45,30 +45,30 @@ The following terms are used throughout the README and hence have been defined h
 
 ### Distributed File Sharing System
 
-> There is no doubt that distributed version control systems are superior than their centralized counterparts. The absence of repository locking allows multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure. And the most underrated of all is the ability to work offline.
+> There is no doubt that distributed version control systems are superior to their centralized counterparts. The absence of repository locking allows multiple developers to collaborate in real-time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure. And the most underrated of all is the ability to work offline.
 
-> However, according to Etter, the primary reason technical writers should use a distributed file sharing system is because developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
+> However, according to Etter, the primary reason technical writers should use a distributed file-sharing system is that developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
 
 Therefore, it is reason enough to use GitHub in our expedition.
 
 #### Steps to create a new GitHub Repository
 
-1. Sign In / Open your GitHub Repository
-2. Click on **New / Create Repository** to create a new repository
-3. Name this new repository as _yourGitHubUsername_.github.io
+1. Sign In / Open your GitHub Repository.
+2. Click on **New / Create Repository** to create a new repository.
+3. Name this new repository as _yourGitHubUsername_.github.io.
 4. Set it up as a **Public** Repository.
-5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
-6. Click **Create repository**
+5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now).
+6. Click **Create repository**.
 
 ### Lightweight Markup Language
 
-> Etter strongly feels that using a lightweight markup is the best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain.
+> Etter strongly feels that using a lightweight markup is the best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length requiring much less time and effort to maintain.
 
 > Furthermore, it increases people's ability to contribute.
 
 That is why we format our resume in [Markdown](https://commonmark.org/help/). After all, it the most widely used markup language in the world having the most concise syntax.
 
-Note: While Markdown has several flavours, we use the popular GitHub Flavoured Markdown.
+**Note:** While Markdown has several flavours, we use the popular GitHub Flavoured Markdown.
 
 #### Steps to upload your (Markdown-formatted) Resume to this new Repository
 
@@ -84,18 +84,18 @@ Note: While Markdown has several flavours, we use the popular GitHub Flavoured M
 > Etter is not wrong when he says that static websites check all the right boxes. They do not require any specialized learning and are quick and easy to setup. It lets one focus their time and effort on what matters the most, content.
 > To add on, the absence of a database and server-side scripting results in better overall performance.
 
-Needles to say, a static website is what we are going for here with GitHub Pages. This website will host our repository containing our Resume.
+Needless to say, a static website is what we are going for here with GitHub Pages. This website will host our repository containing our Resume.
 
 > While manual simple static site creation is feasible,
 > utilizing one of Etter's very own suggestions, Jekyll, as our static site generator, can futureproof it.
 
-And that's exactly what we do here (Use Jekyll to theme our Resume).
+And that's exactly what we do here (use Jekyll to theme our Resume).
 
 #### Steps to create a Static Website for your Resume and style it
 
 1. Click **Settings** tab from within the repository.
-2. Scroll Down to GitHub Pages Section. Here, you will see the URL of your GitHub Page.
-3. Click **Choose a theme** under the **Theme Chooser** Sub-Section.
+2. Scroll Down to the GitHub Pages section. Here, you will see the URL of your GitHub Page.
+3. Click **Choose a theme** under the **Theme Chooser** sub-section.
 4. Select the desired theme.
 5. Click **Select theme**.
 
@@ -124,18 +124,16 @@ I would like to thank
 
 ## FAQs
 
-**1. “Why are my latest changes not reflecteds in my Resume?”**
+**1. “Why are my latest changes not reflected in my Resume?”**
 
 Note that GitHub Pages is notorious for its irregular update times. If the new changes have been properly committed, they will eventually be applied to your Resume. However, it can take a few hours before those changes are live. Do refresh your page after a while and you should be able to witness the desired output.
 
-**2. “How do I insert a GIF in my README file like this one has?”**
+**2. “How do I insert a GIF in my README file as this one has?”**
 
 1. Create an animated GIF using websites like [giphy](https://giphy.com/).
-2. Upload this GIF to the intended repository.
-3. Reference it in the README file using the GIF file name.  
+2. Upload this newly created GIF to the intended repository.
+3. Reference it in the README file using the GIF file name.
 
-  For Example: If the file name is GIFanimation.gif, you can reference it as 
+For Example: If the file name is GIFanimation.gif, you can reference it as
 
-  `
-  ![GIF](GIFanimation.gif)
-  `
+` ![GIF](GIFanimation.gif) `
