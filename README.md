@@ -117,19 +117,25 @@ To check that out, follow the animated GIF added below. Navigating to _yourGitHu
 
 ## Authors and Acknowledgements
 
-Billie Thompson for providing a good readme template.
-
 I would like to thank
 
-- **Billie Thompson** whose README template has been instrumental in putting this README together.
-- **Fantastic Five** group members from COMP 3040 whose suggestions while peer editing have been extremely valuable.
+- **Billie Thompson** whose README template has been instrumental in putting this document together.
+- **Fantastic Five** group members from COMP 3040 whose suggestions while peer editing have been extremely valuable and have made this possible.
 
 ## FAQs
 
-1. “Why is Markdown better than a word processor?”
+**1. “Why are my latest changes not reflecteds in my Resume?”**
 
-Not only is Markdown free as oppossed to the licensing cost of Word, Markdown does not share Word's version control issue and poor history for creating HTML Websites.
+Note that GitHub Pages is notorious for its irregular update times. If the new changes have been properly committed, they will eventually be applied to your Resume. However, it can take a few hours before those changes are live. Do refresh your page after a while and you should be able to witness the desired output.
 
-2.  “Why is my resume not showing up?”
+**2. “How do I insert a GIF in my README file like this one has?”**
 
-Note that GitHub pages takes a while to load the latest changes. So, it is completely normal to not see your changes instantly. Do refresh your page after a while and you should be abler to see your latest changes.
+1. Create an animated GIF using websites like [giphy](https://giphy.com/).
+2. Upload this GIF to the intended repository.
+3. Reference it in the README file using the GIF file name.  
+
+  For Example: If the file name is GIFanimation.gif, you can reference it as 
+
+  `
+  ![GIF](GIFanimation.gif)
+  `
