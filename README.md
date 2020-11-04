@@ -43,22 +43,31 @@ The following terms are used throughout the README and hence have been defined h
 
 ## Instructions
 
+There is no doubt that distributed version control systems are superior than their centralized counterparts.
+There is no repository locking allowing multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server.
+
+> However, according to Etter, the primary reason techncial writers should use a distributed file sharing system is because developers prefer them. This will encourage contributions as potential contributors now know that you prefer modern tools.
+
+Therefore, we use GitHub as follows.
+
 ### Steps to create a new GitHub Repository
 
-1. Sign In / Open your GitHub Repositiory
+1. Sign In / Open your GitHub Repository
 2. Click on **New / Create Repository** to create a new repository
-3. Name this new repositiory as _yourGitHubUsername_.github.io
+3. Name this new repository as _yourGitHubUsername_.github.io
 4. Set it up as a **Public** Repository.
 5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
 6. Click **Create repository**
 
-### Steps to upload your Resume to this new Repository
+> Etter strongly feels that using a lightweight markup like Markdown is te best way forward. Not only is the work then relatively easy to comprehend but also is usually short in length and requires much less time and effort to maintain. Furthermore, using something like Microsoft Word instead, goes directly against the unsaid rule of constantly updating the single source of truth. And we haven't even talked about the free (Markdown) vs paid (Word) aspect here.
 
-**Reminder:** Your resume should be formatted in [Markdown](https://commonmark.org/help/).
+That is why we format our resume should be formatted in [Markdown](https://commonmark.org/help/).
+
+### Steps to upload your Resume to this new Repository
 
 1. Click **Add file** within your new repository.
 2. Select **Upload files** from the dropdown box.
-3. Rename your Markdown formatted Resume file as index.md.
+3. Rename your Markdown-formatted Resume file as index.md.
 4. Drag this index.md file into your repository.
 5. Enter a commit message.
 
@@ -66,18 +75,19 @@ The following terms are used throughout the README and hence have been defined h
 
 6. Click **Commit Changes**.
 
-### Steps to create a Static Website for your Resume and style it
+> Etter is not wrong when he says that static websites check all the right boxes. They are easy to use, fast, portable and completely secure. There are no databases to setup or servers to configure. It lets one focus their time and effort on what matters the most, content.
 
-We use Jekyll to build our static website for hosting on GitHub Pages. This static website will contain the Resume.
+Hence, we use GitHub Pages to host our repository containing our Resume and utilize Etter's very own suggestion, Jekyll as our static site generator to theme our resume.
+
+### Steps to create a Static Website for your Resume and style it
 
 1. Click **Settings** tab from within the repository.
 2. Scroll Down to GitHub Pages Section. Here, you will see the URL of your GitHub Page.
 3. Click **Choose a theme** under the **Theme Chooser** Sub-Section.
-4. Select a desired theme.
+4. Select the desired theme.
 5. Click **Select theme**.
 
-
-And that's all. You have successfully hosted your Resume online. To check that out, just navigate to _yourGitHubUsername_.github.io website.
+And that's all. You have successfully hosted your Resume online. To check that out, just navigate to _yourGitHubUsername_.github.io website just as showin in the GIF below.
 
 ### Animated GIF
 
@@ -89,14 +99,18 @@ And that's all. You have successfully hosted your Resume online. To check that o
 
 - [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/)
 
-- #### \***\*TODO**: at least one other resource
+- [Interesting Jekyll Tutorial allowing to explore more of it](https://opensource.com/article/17/4/getting-started-jekyll)
 
 ## Authors and Acknowledgements
 
-Fantastic Five - names
+I would like to thank my COMP 3040 group members in Fantastic Five whose suggestions while peer editing have been extremely helpful.
 
 ## FAQs
 
-1. A question about the overall process, such as “Why is Markdown better than a word processor?”
+1. “Why is Markdown better than a word processor?”
 
-2. A question about the practical details, such as “Why is my resume not showing up?” You may use the example FAQs, or come up with your own.
+Not only is Markdown free as oppossed to the licensing cost of Word, Markdown does not share Word's version control issue and poor history for creating HTML Websites.
+
+2.  “Why is my resume not showing up?”
+
+Note that GitHub pages takes a while to load the latest changes. So, it is completely normal to not see your changes instantly. Do refresh your page after a while and you should be abler to see your latest changes.
