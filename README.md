@@ -98,4 +98,5 @@ Fantastic Five - names
 ## FAQs
 
 1. A question about the overall process, such as “Why is Markdown better than a word processor?”
+
 2. A question about the practical details, such as “Why is my resume not showing up?” You may use the example FAQs, or come up with your own.
