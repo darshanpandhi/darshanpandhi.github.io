@@ -45,6 +45,8 @@ The following terms are used throughout the README and hence have been defined h
 
 ### Animated GIF
 
+![GIF](GIF.gif)
+
 ### Steps to create a new GitHub Repository
 
 1. Sign In / Open your GitHub Repositiory
