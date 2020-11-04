@@ -81,7 +81,7 @@ And that's all. You have successfully hosted your Resume online. To check that o
 
 ### Animated GIF
 
-![GIF](GIF.gif)
+![GIF](GIFanimation.gif)
 
 ### More Resources
 
