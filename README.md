@@ -6,7 +6,7 @@ Hosting one's Resume online is no longer an option today. Rather, it is crucial 
 
 This README will guide you in formatting and having your Resume published online utilizing popular and current technical documentation tools like Markdown, a Markdown editor, GitHub Pages and Jekyll.
 
-&nbsp;While doing so, this README will also be teaching about Andrew Etter's key principles regarding current Technical Writing as mentioned in his book [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/).
+While doing so, this README will also be teaching about Andrew Etter's key principles regarding current Technical Writing as mentioned in his book [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/).
 
 ## Audience
 
