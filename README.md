@@ -16,24 +16,29 @@ This README is intended for fellow Computer Science Students looking to increase
 
 The following terms are used throughout the README and hence have been defined here
 
-- **Markdown**
+- [**Markdown**](https://www.markdownguide.org/)
 
-    Markdown is a lightweight markup language. Simply put, it is a way of formatting text documents.
-    
-    As a matter of fact, this README itself is formatted in Markdown. 
-    
-    this readme is created with mardowndRequires an editor which leads us to our term. 
+  Markdown is a lightweight markup language. Simply put, it is a way of formatting text documents.
 
-#### **TODO:** Insert an Andrew Etter Refernce like Andrew Etter recommends to use a light-weight markup language.
+  As a matter of fact, this README itself is formatted in Markdown using a Markdown Editor which brings us to our next term.
 
-- **Markdown Editor:** Visual Studio Code - shows a live preview side by side
-- **GitHub:**
-- **GitHub Pages:**
-- **Jekyll:** theme
+- **Markdown Editor**
+
+  Markdown Editors are simple, easy to use text to HTML conversion tools.
+
+  I personally prefer [Visual Studio Code](https://code.visualstudio.com/) as it shows a live preview side by side as you type the corresponding Markdown.
+
+- [**GitHub Pages**](https://pages.github.com/)
+
+  Using GitHub Pages, you can convert your favourite repository into a website
+
+- [**Jekyll:**](https://jekyllrb.com/)
+
+  Jekyll is a static site generator that is used to convert plain text into static websites.
 
 ## Prerequisites
 
-- **A Resume formatted in [Markdown](https://commonmark.org/help/)**
+- **A Resume formatted in [Markdown](https://www.markdownguide.org/)**
 - **A GitHub Account:** If you don't have one already, you can create a free one on the [GitHub Website](https://github.com/join)
 
 ## Instructions
@@ -41,14 +46,40 @@ The following terms are used throughout the README and hence have been defined h
 ### Animated GIF
 
 ### Steps to create a new GitHub Repository
-1. Sign In / Open your GitHub Repositiory
-2. Click on **New / Create Repository** to create a new repository 
-3. Name this new repositiory as *yourGitHubUsername*.github.io
-3. Set it up as a **Public** Repository.
-4. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
-5. Click **Create repository**
 
-###
+1. Sign In / Open your GitHub Repositiory
+2. Click on **New / Create Repository** to create a new repository
+3. Name this new repositiory as _yourGitHubUsername_.github.io
+4. Set it up as a **Public** Repository.
+5. Check **Add a README file** to allow GitHub to automatically create a README file for you (like the one you are reading right now)
+6. Click **Create repository**
+
+### Steps to upload your Resume to this new Repository
+
+**Reminder:** Your resume should be formatted in [Markdown](https://commonmark.org/help/).
+
+1. Click **Add file** within your new repository.
+2. Select **Upload files** from the dropdown box.
+3. Rename your Markdown formatted Resume file as index.md.
+4. Drag this index.md file into your repository.
+5. Enter a commit message.
+
+   **Note:** A commit message is simply a short description of the change in the repository. In this case, we can have it as **Add Resume**.
+
+6. Click **Commit Changes**.
+
+### Steps to create a Static Website for your Resume and style it
+
+We use Jekyll to build our static website for hosting on GitHub Pages. This static website will contain the Resume.
+
+1. Click **Settings** tab from within the repository.
+2. Scroll Down to GitHub Pages Section. Here, you will see the URL of your GitHub Page.
+3. Click **Choose a theme** under the **Theme Chooser** Sub-Section.
+4. Select a desired theme.
+5. Click **Select theme**.
+
+
+And that's all. You have successfully hosted your Resume online. To check that out, just navigate to _yourGitHubUsername_.github.io website.
 
 ### More Resources
 
