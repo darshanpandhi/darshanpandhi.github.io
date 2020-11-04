@@ -43,10 +43,6 @@ The following terms are used throughout the README and hence have been defined h
 
 ## Instructions
 
-### Animated GIF
-
-![GIF](GIF.gif)
-
 ### Steps to create a new GitHub Repository
 
 1. Sign In / Open your GitHub Repositiory
@@ -82,6 +78,10 @@ We use Jekyll to build our static website for hosting on GitHub Pages. This stat
 
 
 And that's all. You have successfully hosted your Resume online. To check that out, just navigate to _yourGitHubUsername_.github.io website.
+
+### Animated GIF
+
+![GIF](GIF.gif)
 
 ### More Resources
 
