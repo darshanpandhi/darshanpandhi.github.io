@@ -76,17 +76,20 @@ Note: While Markdown has several flavours, we use the popular GitHub Flavoured M
 2. Select **Upload files** from the dropdown box.
 3. Rename your Resume file as index.md.
 4. Drag this index.md file into your repository.
-5. Enter a commit message.
-
-   **Note:** A commit message is simply a short description of the change in the repository. In this case, we can have it as **Add Resume**.
-
+5. Enter a [commit message](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/).
 6. Click **Commit Changes**.
 
 ### Static Website and Static Site Generator
 
-> Etter is not wrong when he says that static websites check all the right boxes. They are easy to use, fast, portable and completely secure. There are no databases to setup or servers to configure. It lets one focus their time and effort on what matters the most, content.
+> Etter is not wrong when he says that static websites check all the right boxes. They do not require any specialized learning and are quick and easy to setup. It lets one focus their time and effort on what matters the most, content.
+> To add on, the absence of a database and server-side scripting results in better overall performance.
 
-Hence, we use GitHub Pages to host our repository containing our Resume and utilize Etter's very own suggestion, Jekyll as our static site generator to theme our resume.
+Needles to say, a static website is what we are going for here with GitHub Pages. This website will host our repository containing our Resume.
+
+> While manual simple static site creation is feasible,
+> utilizing one of Etter's very own suggestions, Jekyll, as our static site generator, can futureproof it.
+
+And that's exactly what we do here (Use Jekyll to theme our Resume).
 
 #### Steps to create a Static Website for your Resume and style it
 
