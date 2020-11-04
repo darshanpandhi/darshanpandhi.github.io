@@ -46,7 +46,7 @@ The following terms are used throughout the README and hence have been defined h
 There is no doubt that distributed version control systems are superior than their centralized counterparts.
 The absence of repository locking allows multiple developers to collaborate in real time. Besides, in the event of an unprecedented failure, the peer transfer system saves the day as opposed to a central server failure.
 
-> However, according to Etter, the primary reason techncial writers should use a distributed file sharing system is because developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
+> However, according to Etter, the primary reason technical writers should use a distributed file sharing system is because developers prefer them. This will encourage collaboration as potential contributors now know that you prefer modern tools.
 
 Therefore, we use GitHub as follows.
 
