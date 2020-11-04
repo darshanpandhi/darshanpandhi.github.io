@@ -87,7 +87,9 @@ Hence, we use GitHub Pages to host our repository containing our Resume and util
 4. Select the desired theme.
 5. Click **Select theme**.
 
-And that's all. You have successfully hosted your Resume online. To check that out, just navigate to _yourGitHubUsername_.github.io website just as showin in the GIF below.
+And that's all. You have successfully hosted your Resume online. 
+
+To check that out, follow the animated GIF added below. Navigating to _yourGitHubUsername_.github.io website should give you the desired result you have been waiting for.
 
 ### Animated GIF
 
@@ -103,7 +105,11 @@ And that's all. You have successfully hosted your Resume online. To check that o
 
 ## Authors and Acknowledgements
 
-I would like to thank my COMP 3040 group members in Fantastic Five whose suggestions while peer editing have been extremely helpful.
+Billie Thompson for providing a good readme template.
+
+I would like to thank 
+- **Billie Thompson** whose README template has been instrumental in putting this README together.
+- **Fantastic Five** group members from COMP 3040 whose suggestions while peer editing have been extremely valuable.
 
 ## FAQs
 
